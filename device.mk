@@ -61,3 +61,4 @@ $(call inherit-product, device/oneplus/sdm845-common/common.mk)
 
 # Inherit from vendor blobs
 $(call inherit-product, vendor/oneplus/fajita/fajita-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
